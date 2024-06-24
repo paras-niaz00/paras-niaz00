@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paras-niaz00
 -  👀 I’m interested in diving into web development, using my C++ foundation to explore technologies like HTML, CSS, and JavaScript to create interactive and visually appealing websites..
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on mini projects with classmates
 - 📫 How to reach me at linkedIn @paraskalhar and here is my Gamil paraskalhar@gmail.com
 
