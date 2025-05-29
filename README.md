@@ -1,4 +1,5 @@
 👋 Hi, I'm Paras Kalhar
+
 🎓 Software Engineering student at MUET  
 💻 Aspiring Data Analyst with Python, pandas, NumPy, and Matplotlib skills  
 📊 Interested in data visualization, ETL, and real-world data analysis  
