@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @paras-niaz00
--  👀 I’m interested in diving into web development, using my C++ foundation to explore technologies like HTML, CSS, and JavaScript to create interactive and visually appealing websites..
-- 🌱 I’m currently learning java 
-- 💞️ I’m looking to collaborate on mini projects with classmates
-- 📫 How to reach me at linkedIn @paraskalhar and here is my Gamil paraskalhar@gmail.com
+👋 Hi, I'm Paras Kalhar
+🎓 Software Engineering student at MUET  
+💻 Aspiring Data Analyst with Python, pandas, NumPy, and Matplotlib skills  
+📊 Interested in data visualization, ETL, and real-world data analysis  
+🔍 Currently learning through GDGoC IIUI Data Camp  
+🌐 Building projects in data analysis and web development
 
-<!---
-paras-niaz00/paras-niaz00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Connect with me
+Email: paraskalhar@gmail.com  
+LinkedIn: [paras-kalhar-17015329b](https://www.linkedin.com/in/paras-kalhar-17015329b)  
+GitHub: [github.com/www.paras-niaz00](https://github.com/www.paras-niaz00)
